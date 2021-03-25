@@ -2,7 +2,7 @@ xmltodict
 flask
 flask_restful
 requests==2.18.1
-PyYAML==3.12
+PyYAML==5.4
 uwsgi==2.0.15
 ConfigParser==3.5.0
 uuid
